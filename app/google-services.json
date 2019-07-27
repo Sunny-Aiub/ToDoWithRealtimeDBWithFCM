@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "383478224910",
+    "firebase_url": "https://todolist-95f9a.firebaseio.com",
+    "project_id": "todolist-95f9a",
+    "storage_bucket": "todolist-95f9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383478224910:android:13c3c6a65bcbec53",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383478224910-m74844plhtepreuvo89ljik2n848n871.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "38e207cd1eba6952d4e9266c9ad95f16e597130f"
+          }
+        },
+        {
+          "client_id": "383478224910-or6q7br3qb8iui08b7tnkotqavo6vjb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiYAWUsIRV8Q7MbOXP54cUBkvEPe2jioo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383478224910-or6q7br3qb8iui08b7tnkotqavo6vjb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
